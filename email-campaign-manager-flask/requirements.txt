@@ -1,0 +1,7 @@
+Flask
+Flask-Mail
+pandas
+apscheduler
+werkzeug
+pytz
+
