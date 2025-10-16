@@ -1,12 +1,5 @@
 # EmailBot Pro
 
-Cleaned and production‑ready email automation bot.
-
-## Highlights
-- Cleaned of legacy GitHub usernames/links
-- One‑command run (Python or Docker)
-- `.env` configuration, CSV bulk sending, retries
-
 ## Quick Start
 
 **Python**
